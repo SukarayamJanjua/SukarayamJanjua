@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sukarayamjanjua&label=Profile%20views&color=0e75b6&style=flat" alt="sukarayamjanjua" /> </p>
 
-- 🌱 I’m currently learning **DSA ,Android**
+- 🌱 I’m currently learning **DSA ,Backend**
 
 - 💬 Ask me about **Frontend , Game-dev ,3d Modelling**
 
