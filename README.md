@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **DSA ,Backend**
 
-- 💬 Ask me about **Frontend , Game-dev ,3d Modelling**
+- 💬 Ask me about **Frontend , Backend, Game-dev ,3d Modelling, Video Editing**
 
 - 📫 How to reach me **agam.sukarayam@gmail.com**
 
